@@ -77,8 +77,6 @@ nps = (len(promoters) - len(detractors)) / len(responses) * 100
   - 25% neutral feedback.
   - 15% negative feedback.
 - NPS indicated strong customer loyalty with a score of 45.
-- Common drivers of dissatisfaction:
-  - [Insert key issues or trends found in the data].
 
 ## **Visualizations**
 - Include example charts:
